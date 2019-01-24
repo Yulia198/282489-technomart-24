@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Julia Mozharovskaya](https://up.htmlacademy.ru/htmlcss/24/user/282489).
-* Наставник: `Неизвестно`.
+* Наставник: `Anton Popov`.
 
 ---
 
